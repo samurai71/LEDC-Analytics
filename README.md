@@ -1,2 +1,0 @@
-# LEDC-Analytics
-Google Analytics 
